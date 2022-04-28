@@ -8,8 +8,8 @@
     "Ancurio"
   ],
   "contact": {
-    "homepage": "https://github.com/Sturmlilie/duyguji-client-input",
-    "sources": "https://github.com/Sturmlilie/duyguji-client-input"
+    "homepage": "https://github.com/MrZomka/duyguji-continued",
+    "sources": "https://github.com/MrZomka/duyguji-continued"
   },
 
   "license": "LGPLv3",
@@ -26,14 +26,14 @@
 
   "depends": {
     "fabricloader": ">=0.8.8",
-    "minecraft": "1.16.x"
+    "minecraft": "1.18.x"
   },
 
   "custom": {
     "modupdater": {
       "strategy": "github",
-      "owner": "Sturmlilie",
-      "repository": "duyguji-client-input"
+      "owner": "MrZomka",
+      "repository": "duyguji-continued"
     }
   }
 }
